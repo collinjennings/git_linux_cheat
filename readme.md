@@ -7,4 +7,5 @@ _This is a cheat sheet for frequent Linux and GIT commands. The sheet was create
 **pwd** - print working directory  
 **mv** - move or rename files/directories  
 **touch** - create an empty file or update timestamps  
+**rm** - remove files or directories  
 
