@@ -5,4 +5,5 @@ _This is a cheat sheet for frequent Linux and GIT commands. The sheet was create
 **cd** - changes the current directory to the named directory    
 **mkdir** - create a new directory  
 **pwd** - print working directory  
+**mv** - move or rename files/directories  
 
