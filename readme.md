@@ -10,6 +10,7 @@ _This is a cheat sheet for frequent Linux and GIT commands. The sheet was create
 **rm** - remove files or directories  
 **cp** - copy files or directories  
 ## Common GIT Commands  
+**git init** - initialize an existing directory as a Git repository  
 **git status** - show modified files in working directory, staged for next commit  
 **git add [file]** - add a file to your next commit  
 **git commit -m "[descriptive message]"** - commit staged content as new commit snapshot  
