@@ -6,4 +6,5 @@ _This is a cheat sheet for frequent Linux and GIT commands. The sheet was create
 **mkdir** - create a new directory  
 **pwd** - print working directory  
 **mv** - move or rename files/directories  
+**touch** - create an empty file or update timestamps  
 
