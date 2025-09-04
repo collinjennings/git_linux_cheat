@@ -11,4 +11,6 @@ _This is a cheat sheet for frequent Linux and GIT commands. The sheet was create
 **cp** - copy files or directories  
 ## Common GIT Commands  
 **git status** - show modified files in working directory, staged for next commit  
+** git add [file]** - add a file to your next commit  
+
 
