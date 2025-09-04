@@ -8,4 +8,5 @@ _This is a cheat sheet for frequent Linux and GIT commands. The sheet was create
 **mv** - move or rename files/directories  
 **touch** - create an empty file or update timestamps  
 **rm** - remove files or directories  
+**cp** - copy files or directories  
 
