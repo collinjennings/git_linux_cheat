@@ -12,5 +12,6 @@ _This is a cheat sheet for frequent Linux and GIT commands. The sheet was create
 ## Common GIT Commands  
 **git status** - show modified files in working directory, staged for next commit  
 **git add [file]** - add a file to your next commit  
+**git commit -m "[descriptive message]"** - commit staged content as new commit snapshot  
 
 
