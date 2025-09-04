@@ -14,5 +14,6 @@ _This is a cheat sheet for frequent Linux and GIT commands. The sheet was create
 **git add [file]** - add a file to your next commit  
 **git commit -m "[descriptive message]"** - commit staged content as new commit snapshot  
 **git push [alias] [branch]** - transmit local branch commits to remote repository branch  
+**git merge [alias]/[branch]** - merge remote branch into current branch  
 
 
